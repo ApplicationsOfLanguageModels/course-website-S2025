@@ -1,7 +1,8 @@
 ---
 name: Sandipan Dandapat
-role: Instructor
+role: Co-Instructor
 email: sandipandandapat@gmail.com
 website: 
 photo: sandipan.png
 ---
+Principal Applied Researcher at Microsoft
