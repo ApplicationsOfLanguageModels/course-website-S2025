@@ -15,7 +15,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Applications of Language Models
+title: AoLM Spring 2025
 tagline: Course website for Applications of Language Models
 description: This is the website of the course offered by the Information Retrieval and Extraction Lab, IIIT Hyderabad.
 author: NA
