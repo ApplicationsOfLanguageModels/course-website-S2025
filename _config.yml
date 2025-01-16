@@ -22,7 +22,7 @@ author: NA
 baseurl: # the subpath of your site, e.g. /blog
 url: 'https://applicationsoflanguagemodels.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-favicon_ico: <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Freepik - Flaticon</a>
+favicon_ico: /assets/images/dummy.png
 favitype: 'image/png'
 
 # Theme settings
@@ -80,7 +80,3 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
-
-just_the_docs:
-  additional_css:
-    - assets/css/custom.scss
