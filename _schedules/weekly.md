@@ -25,15 +25,13 @@ schedule:
         start: 3:35 PM
         end: 5:10 PM
         location: H201
-  - name: Tuesday
-  - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 3:35 PM
         end: 5:10 PM
         location: H201
-  - name: Friday
+  - name: Saturday
     events:
       - name: Instructor Office Hours
         start: 11:00 AM

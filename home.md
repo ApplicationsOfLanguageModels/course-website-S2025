@@ -18,12 +18,6 @@ description: >-
 
 ---
 
-## Course Policy
-
-Detailed course policy for this course, including information on the learning methodology, grade distribution, plagiarism policies, and other guidelines, can be found [here](#).
-
----
-
 ## About
 
 This course provides an in-depth exploration of the **principles and applications of modern language models**, including both **Large Language Models (LLMs)** and **Small Language Models (SLMs)**. Topics include the foundations of language models, their applications in **Education** and **Healthcare**, and their use in broader domains like customer service, legal tech, and software development. The course emphasizes the **design and implementation of agentic frameworks** for real-world challenges and critically examines the **ethical implications** of deploying language models in sensitive domains.
