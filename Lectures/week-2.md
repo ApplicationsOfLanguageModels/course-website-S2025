@@ -47,5 +47,8 @@ Key challenges in tokenization and model training were addressed, particularly h
 5. **Bhashaverse Research Paper**  
     [View Paper here](https://arxiv.org/pdf/2412.04351)
 
+6. **Stanford CS229| Building Large Language Models (LLMs)**  
+    [View Video here](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+
 ## Summary
 The lectures covered technical aspects of pre-training and fine-tuning LLMs, focusing on the practical challenges in tokenization, data adjustments, and task-specific performance. Additionally, Bhashaverse was introduced as a significant project aimed at advancing machine translation for Indian languages. The importance of model optimization techniques like PEFT and prompt engineering was emphasized for adapting LLMs to real-world tasks.
