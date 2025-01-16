@@ -42,6 +42,10 @@ description:
   - Feasibility and novelty.
   - Initial methodology outline (subject to change).
 
+> **Note**: The suggested projects are only starting points. They are not meant to be complete or novel ideas. You are expected to research these topics thoroughly, examine existing work, and brainstorm ways to innovate. Students are also encouraged to come up with their own ideas, using the suggestions as inspiration rather than strict guidelines.
+
+---
+
 ### **Preliminary Implementation**
 - **Deliverable**: Progress so far.
 - **Deadline**: Feb 19
@@ -51,6 +55,10 @@ description:
   - Use of LLMs effectively.
   - Reproducibility and documentation.
 
+> **Tip**: It is challenging to find completely novel ideas, especially when you are just starting. Shared tasks can be a great way to work on cutting-edge problems with provided datasets and well-defined objectives. If you're unsure about pursuing something entirely novel from scratch, shared tasks can help you build confidence and focus on methodological innovation.
+
+---
+
 ### **Evaluation and Results**
 - **Deliverable**: Quantitative and qualitative evaluation metrics.
 - **Deadline**: March 2
@@ -59,6 +67,8 @@ description:
   - Thoroughness in testing.
   - Insights from results.
   - Comparison with baselines or prior work.
+
+---
 
 ### **Final Presentation**
 - **Deliverable**: A 10-minute presentation and live demo.
@@ -78,31 +88,35 @@ description:
 # Recommended Venues for Publication
 
 ### ACL Student Research Workshop
-- **Paper Draft Submission**: March 27, 2025
+- [Paper Draft Submission](https://acl2025-srw.github.io/cfp): March 27, 2025
 
 ### BIONLP 2025 and Shared Tasks @ ACL 2025
-- **Paper Submission Deadline**: March 20, 2025
+- [Paper Submission Deadline](https://aclweb.org/aclwiki/BioNLP_Workshop): March 20, 2025
 
-### Biomedical and Clinical NLP
-- **Workshop on Innovative Use of NLP for Building Educational Applications (ACL)**: March 1, 2025  
-  - Shared Task: Pedagogical Ability Assessment of AI-powered Tutors.
+### Workshop on Innovative Use of NLP for Building Educational Applications 
+- [Paper Submission Deadline](https://sig-edu.org/bea/2025#shared-task)**: March 1, 2025  
+
+### Shared Task: Pedagogical Ability Assessment of AI-powered Tutors
+- [More information to be released](https://sig-edu.org/sharedtask/2025)
 
 ### Third International Workshop on Gender-Inclusive Translation Technologies
-- **Submission Deadline**: March 10, 2025  
+- [Submission Deadline](https://sites.google.com/tilburguniversity.edu/gitt2025): March 10, 2025  
 - **Notification of Acceptance**: April 4, 2025
 
 ### Clinical Psychology Shared Task
-- **Deadline**: End of Feb, Early March (To be released).
+- [Deadline](https://clpsych.org/call-for-papers/): End of Feb, Early March (To be released, please keep an eye out).
 
 ### 4th Workshop on NLP for Positive Impact (colocated with ACL)
 - **Focus**: Addressing global challenges like poverty, hunger, healthcare, education, inequality, and climate change.  
-- **Deadline**: March 2, 2025.
+- [Paper Submission Deadline](https://sites.google.com/view/nlp4positiveimpact/call-for-papers-2025): March 2, 2025.
 
 ### Shared Task on Detecting Social Media Manipulation
-- **Registration Deadline**: March 23, 2025  
+- [Registration Deadline](https://unlp.org.ua/shared-task/): March 23, 2025  
 - **Submission of System Responses**: March 31, 2025  
 - **Results Announced**: April 4, 2025  
 - **Shared Task Paper Due**: April 14, 2025
+
+> **Important**: The listed venues are not exhaustive. Stay in constant touch with the teaching assistants while planning your project and proposal. Early discussions can help identify additional venues aligned with your work and interests.
 
 ---
 
@@ -128,9 +142,11 @@ description:
 - Was the project well-executed within deadlines?
 - Did the team collaborate effectively?
 
+---
+
 # Final Submission and Publication Expectations
 
-The final submission for the project will take the form of a **research paper** formatted as an **ACL-style manuscript**. We strongly encourage all students to aim for high-quality outputs with the goal of submitting their work to relevant **workshops** and **shared tasks**. 
+The final submission for the project will take the form of a **research paper** formatted as an **ACL-style manuscript**. We strongly encourage all students to aim for high-quality outputs with the goal of submitting their work to relevant **workshops** and **shared tasks**.
 
 This includes targeting venues such as the **ACL Student Research Workshop**, **BIONLP 2025**, and other domain-specific workshops like the **Workshop on Innovative Use of NLP for Building Educational Applications** or **NLP for Positive Impact**. By focusing on these avenues, students can contribute to advancing research in their chosen fields while gaining valuable publication experience.
 
@@ -138,5 +154,3 @@ We expect all submissions to:
 - Adhere to the professional standards of research publication, including a clear problem statement, rigorous methodology, and thorough evaluation.
 - Align with the topics and goals of relevant workshops or shared tasks.
 - Reflect a concerted effort to push for **practical impact** and **novel contributions** in their respective domains.
-
-Students are encouraged to begin exploring potential publication venues early in the project timeline to ensure their work aligns with the deadlines and focus areas of these opportunities.

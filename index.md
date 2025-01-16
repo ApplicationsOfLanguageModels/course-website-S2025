@@ -10,13 +10,13 @@ seo:
 
 # Applications of Language Models
 
-Applications of Language Models is an exciting, hands-on course designed to bring the power of language models like GPT, BERT, and others to life. Forget traditional lectures—this course is all about diving into the practical, cutting-edge world of natural language processing (NLP). Whether it’s building smarter chatbots, summarizing endless documents, or crafting personalized recommendations, this course focuses on solving real-world problems with modern AI tools.
+An all new, exciting, hands-on course designed to bring the power of language models to practical everyday use. Forget traditional lectures—this course is all about diving into the practical, cutting-edge world of natural language processing (NLP). Whether it’s building smarter chatbots, summarizing endless documents, or crafting personalized recommendations, this course focuses on solving real-world problems with modern AI tools.
 
 We’ll cover the essentials like pre-training, fine-tuning, and prompt engineering, but also dive deeper into advanced topics like efficient model optimization (think quantization and distillation), retrieval-augmented generation (RAG), and making sense of APIs and agent frameworks. It’s a mix of structured lectures, flipped classrooms, and plenty of time for self-driven or collaborative projects.
 
 What’s the endgame? By the time you finish, you’ll have developed practical expertise, built something awesome, and maybe even contributed to research or shared task competitions. This is your playground for innovation—let’s make something amazing together!
 
-## Coourse Details
+## Course Details
 **Faculty Name**: Vasudeva Varma  
 **Course Code**: CL3.408  
 **Credits**: 2  
@@ -24,8 +24,7 @@ What’s the endgame? By the time you finish, you’ll have developed practical 
 **Semester, Year**: Spring 2025  
 **Designed for**: Research students in CS/CL/Human Sciences (Max Students: 25)  
 **Name of the Program**: B.Tech in CSE and Master of Science in Computer Science and Engineering by Research  
-**Pre-Requisites**:  
-- At least one graduate-level Introductory AI/ML course (e.g., Introduction to NLP, Statistical Methods in AI, Advanced NLP, Information Retrieval and Extraction)
+**Pre-Requisites**: At least one graduate-level Introductory AI/ML course (e.g., Introduction to NLP, Statistical Methods in AI, Advanced NLP, Information Retrieval and Extraction)
 
 ---
 
