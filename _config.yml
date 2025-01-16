@@ -80,3 +80,7 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+just_the_docs:
+  additional_css:
+    - assets/css/custom.scss
