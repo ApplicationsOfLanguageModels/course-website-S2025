@@ -26,13 +26,13 @@ This course provides an in-depth exploration of the **principles and application
 
 ## Lecture Hours
 
-The lectures will be conducted **in-person** on [Monday and Thursday from 3:30 PM to 5:00 PM](schedule.md) in Room no: H201 (KRB). Lecture materials (slides, notes, and supporting resources) can be accessed [here](lectures.md).
+The lectures will be conducted **in-person** on [Monday and Thursday from 3:30 PM to 5:00 PM](calendar.md) in Room no: H201 (KRB). Lecture materials (slides, notes, and supporting resources) can be accessed [here](lectures.md).
 
 ---
 
 ## Office Hours
 
-Office hours will be held every [Saturday from 11:00 AM to 12:00 PM](schedule.md). If additional help or meetings are required, feel free to contact the **instructor** or one of the [teaching assistants](#) via email.
+Office hours will be held every Saturday from 11:00 AM to 12:00 PM. If additional help or meetings are required, feel free to contact the [instructor](staff.md) or one of the [teaching assistants](staff.md) via email.
 
 ---
 
