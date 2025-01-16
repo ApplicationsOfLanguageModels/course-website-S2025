@@ -1,6 +1,6 @@
 ---
 name: Sandipan Dandapat
-role: Co-Instructor
+role: Instructor
 email: sandipandandapat@gmail.com
 website: 
 photo: sandipan.png
