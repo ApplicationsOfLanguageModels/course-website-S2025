@@ -6,7 +6,7 @@ parent: Lectures
 nav_order: 2
 ---
 
-## Course Overview
+## Topics Covered
 
 ### Pre-Training and Fine-Tuning of LLMs
 This week covered foundational concepts in large language models (LLMs), specifically pre-training and fine-tuning. Discussions emphasized the need for large compute resources, high-quality data, and advanced architectures to achieve good performance on tasks like question answering and summarization. Techniques like parameter-efficient fine-tuning (PEFT) and prompt engineering were highlighted as essential for tailoring models to specific tasks.
@@ -14,7 +14,7 @@ This week covered foundational concepts in large language models (LLMs), specifi
 ### Challenges in Model Training
 Key challenges in tokenization and model training were addressed, particularly how data modifications can be necessary when initial training results are unsatisfactory. Working memory's role in generating answers was also explored, along with strategies for model optimization and performance improvement.
 
-## Key Topics
+## Key Discussions
 
 ### Data Tokenization and Model Performance
 - Complexity of data tokenization and the need for adjustments during model training.

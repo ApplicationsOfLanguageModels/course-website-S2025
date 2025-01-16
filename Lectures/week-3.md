@@ -14,6 +14,8 @@ nav_order: 3
 
 ---
 
+## Key Discussions
+
 ### Small Language Models (SLMs)
 The session focused on understanding and optimizing small language models (SLMs), defined as models with fewer than 10 billion parameters. Key points included:  
 - **Parameter Sizes**: Context was provided on the parameter scales of models like BERT and GPT-4.  
@@ -23,13 +25,7 @@ The session focused on understanding and optimizing small language models (SLMs)
 - **Quantization**: Reducing memory requirements by lowering data representation precision.  
 - **Pruning**: Differentiated between unstructured and structured pruning techniques.  
 - **Distillation**: Building smaller models by transferring knowledge from larger ones.  
-- **Matryoshka Embedding Models**: Highlighted for applications in search and recommendation systems.  
-
-### Class Collaboration and Communication
-Participants worked together to improve audio quality during the session, highlighting the importance of effective communication in collaborative environments.
-
-### Next Steps
-The session concluded with a preview of **retrieval-augmented generation (RAG)** for the next class, alongside discussions about project team formations and progress tracking.
+- **Matryoshka Embedding Models**: Highlighted for applications in search and recommendation systems.
 
 ---
 
@@ -61,7 +57,7 @@ The session concluded with a preview of **retrieval-augmented generation (RAG)**
 
 ---
 
-## Tutorials to Cover based on post-class feedback
+## Tutorials to cover based on post-class feedback
 - **Fine-tuning with PEFT and Quantization**  
 - **PyTorch Model Loading**  
 - **LLM API Documentation and Usage**  
