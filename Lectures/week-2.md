@@ -44,8 +44,8 @@ Key challenges in tokenization and model training were addressed, particularly h
 4. **Bhashaverse Project Slides**  
    [View slides here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/Bhashaverse.pdf)
 
-5. **Bhashaverse Research Paper**
-    [View slides here](https://arxiv.org/pdf/2412.04351)
+5. **Bhashaverse Research Paper**  
+    [View Paper here](https://arxiv.org/pdf/2412.04351)
 
 ## Summary
 The lectures covered technical aspects of pre-training and fine-tuning LLMs, focusing on the practical challenges in tokenization, data adjustments, and task-specific performance. Additionally, Bhashaverse was introduced as a significant project aimed at advancing machine translation for Indian languages. The importance of model optimization techniques like PEFT and prompt engineering was emphasized for adapting LLMs to real-world tasks.
