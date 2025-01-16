@@ -47,10 +47,10 @@ Key challenges in tokenization and model training were addressed, particularly h
 5. **Bhashaverse Research Paper**  
     [view paper here](https://arxiv.org/pdf/2412.04351)
 
-6. **Stanford CS229 | Building Large Language Models (LLMs)**
+6. **Stanford CS229 | Building Large Language Models (LLMs)**  
     [view video here](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
-7. **Prompting Guide (detailed explanations and references)**
+7. **Prompting Guide (detailed explanations and references)**  
     [visit wesbite Here](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
 ## Summary
