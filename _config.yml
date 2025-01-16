@@ -15,14 +15,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Software Engineering
+title: Applications of Language Models
 tagline: Course website for Applications of Language Models
 description: This is the website of the course offered by the Information Retrieval and Extraction Lab, IIIT Hyderabad.
 author: NA
 baseurl: # the subpath of your site, e.g. /blog
 url: 'https://applicationsoflanguagemodels.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-favicon_ico: '/assets/images/CS6401.png'
+favicon_ico: <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Freepik - Flaticon</a>
 favitype: 'image/png'
 
 # Theme settings
