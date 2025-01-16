@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1 - Introduction and Modeling
+title: Week 1 - Introduction and Course Logistics
 permalink: /lectures/week-1
 parent: Lectures
 nav_order: 1
@@ -8,36 +8,23 @@ nav_order: 1
 
 ## Course Overview
 
-Introduction and Course Overview - [Download](https://karthikv1392.github.io/cs6401_se/slides/L01_Course_Overview.pdf)
+### Course Structure and Expectations
+The course focuses on co-creating knowledge, with an emphasis on student-centered learning. Participants are expected to engage in five to six hours of work per week, including structured class sessions and unstructured self/group study. The course integrates practical, hands-on projects to apply knowledge to real-world problems, rather than focusing solely on theoretical learning.
 
-## Introduction to Modeling
+### Learning Philosophy
+The course follows a flipped classroom model, encouraging active participation and collaboration. Students will engage in discussions, activities, and practical projects to reinforce their learning. The goal is to internalize knowledge and empower students to apply technology to real-world use cases.
 
-Introduction and Course Overview - [Download](https://karthikv1392.github.io/cs6401_se/slides/L02_Intro_Modeling.pdf)
+## Key Discussions
 
+### Course Motivation and Philosophy
+The course aims to equip students with the skills to navigate an evolving field and apply technology to industry problems. Emphasis is placed on connecting timeless concepts and building expertise, despite the rapidly changing landscape of the subject.
 
-## Additional Reading
+### Student Expectations
+Students shared their motivation for enrolling, highlighting interests in applying language models to real-world problems, exploring AI in different sectors, and enhancing research skills. There is a focus on creating meaningful projects and understanding practical applications of the technology.
 
+### Data Utilization and Learning Objectives
+The course encourages a deep understanding of how data can solve problems, particularly in fields like healthcare and education. The importance of hands-on experience and practical projects is emphasized, with the goal of bridging knowledge gaps and meeting client expectations.
 
-1. About Boeing  - [https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer](https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+### Course Engagement and Participation
+Active participation is key, with the expectation that students will contribute to discussions, co-create knowledge, and engage with course materials. The course values attentiveness and encourages students to approach it with a sense of collaboration and curiosity.
 
-2. On Software Licensing - [https://cacm.acm.org/magazines/2014/7/176209-licensing-professional-software-engineers/abstract](https://cacm.acm.org/magazines/2014/7/176209-licensing-professional-software-engineers/abstract)
-
-3. Article on Therac 25 - [https://www.computer.org/csdl/magazine/co/2017/11/mco2017110008/13rRUxAStVR](https://www.computer.org/csdl/magazine/co/2017/11/mco2017110008/13rRUxAStVR)
-
-4. Green Software Foundation - [https://greensoftware.foundation](https://greensoftware.foundation)
-
-5. Article from BBC on IT failures in NHS - [https://www.bbc.com/news/health-67503126](https://www.bbc.com/news/health-67503126)
-
-### AI-assisted tools and benchmarks
-
-1. Github Co-Pilot - [https://github.com/features/copilot](https://github.com/features/copilot)
-2. Cursor AI code editor - [https://www.cursor.com](https://www.cursor.com)
-3. Windsurf Editor - [https://codeium.com/windsurf](https://codeium.com/windsurf)
-4. SWE Bench - [https://www.swebench.com](https://www.swebench.com)
-5. AutoCodeRover - [https://www.autocoderover.net](https://www.autocoderover.net)
-
-### Multi-agent Framework
-
-1. Crew AI - [https://www.crewai.com](https://www.crewai.com)
-2. Autogen - [https://microsoft.github.io/autogen/0.2/](https://microsoft.github.io/autogen/0.2/)
-3. Langraph - [https://www.langchain.com/langgraph](https://www.langchain.com/langgraph)
