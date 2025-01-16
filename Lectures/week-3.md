@@ -36,28 +36,28 @@ The session concluded with a preview of **retrieval-augmented generation (RAG)**
 ## Resources
 
 1. **What are Small Language Models?**  
-   _IBM Article_ - [https://www.ibm.com/think/topics/small-language-models]  
+   [IBM Article](https://www.ibm.com/think/topics/small-language-models)
 
 2. **A Visual Guide to Quantization**  
-   By Marten Grootendorst - [https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization]
+   [by Marten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
 3. **Binary and Scalar Embedding Quantization**  
-   For faster and cheaper retrieval - [https://huggingface.co/blog/embedding-quantization]  
+   [for faster and cheaper retrieval](https://huggingface.co/blog/embedding-quantization)  
 
 4. **Distiller**  
-   Open-source Python package for neural network compression - [https://github.com/IntelLabs/distiller/]  
+   [open-source Python package for neural network compression](https://github.com/IntelLabs/distiller/)
 
 5. **Pruning and Distilling Llama-3.1**  
-   _How to optimize Llama-3.1 8B to Minitron 4B_ - [https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model]  
+   [how to optimize Llama-3.1 8B to Minitron 4B](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model)  
 
 6. **Beyond Answers**  
-   _Transferring reasoning capabilities to smaller LLMs using multi-teacher knowledge distillation_ - [https://arxiv.org/abs/2402.04616]  
+   [transferring reasoning capabilities to smaller LLMs using multi-teacher knowledge distillation](https://arxiv.org/abs/2402.04616)  
 
 7. **Lecture Recording**  
-   [Watch here](https://drive.google.com/file/d/16Zf5MfOhpW1kZRnH7ZGqeZfPdoEFnzH3/view)  
+   [watch here](https://drive.google.com/file/d/16Zf5MfOhpW1kZRnH7ZGqeZfPdoEFnzH3/view)  
 
 8. **Lecture Slides**  
-   [https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/2025-01-16.pdf]  
+   [download from here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/2025-01-16.pdf)  
 
 ---
 

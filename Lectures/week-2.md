@@ -33,22 +33,25 @@ Key challenges in tokenization and model training were addressed, particularly h
 ## Resources
 
 1. **Illustrated Transformer by Jay Alammar**  
-   [Read the blog here](https://jalammar.github.io/illustrated-transformer/)
+   [read the blog here](https://jalammar.github.io/illustrated-transformer/)
 
 2. **TechForward Research Seminar Series - January Edition**  
-   [Watch from 38:35 to 53:20](https://www.youtube.com/watch?v=gWOK7H0f_mg)
+   [watch from 38:35 to 53:20](https://www.youtube.com/watch?v=gWOK7H0f_mg)
 
 3. **LLMs Applications: An Introduction**  
-   [View slides here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/2025-01-06.pdf)
+   [view slides here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/2025-01-06.pdf)
 
 4. **Bhashaverse Project Slides**  
-   [View slides here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/Bhashaverse.pdf)
+   [view slides here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/Bhashaverse.pdf)
 
 5. **Bhashaverse Research Paper**  
-    [View Paper here](https://arxiv.org/pdf/2412.04351)
+    [view paper here](https://arxiv.org/pdf/2412.04351)
 
-6. **Stanford CS229| Building Large Language Models (LLMs)**  
-    [View Video here](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+6. **Stanford CS229 | Building Large Language Models (LLMs)**
+    [view video here](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+
+7. **Prompting Guide (detailed explanations and references)**
+    [visit wesbite Here](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
 ## Summary
 The lectures covered technical aspects of pre-training and fine-tuning LLMs, focusing on the practical challenges in tokenization, data adjustments, and task-specific performance. Additionally, Bhashaverse was introduced as a significant project aimed at advancing machine translation for Indian languages. The importance of model optimization techniques like PEFT and prompt engineering was emphasized for adapting LLMs to real-world tasks.
