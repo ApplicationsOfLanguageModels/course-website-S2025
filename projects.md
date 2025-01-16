@@ -27,10 +27,6 @@ description:
 - **Multilingual Content Moderation Using LLMs**: Investigate hate speech and related problems using multilingual datasets and compare various LLMs and APIs.
 - **Benchmarking LLMs for Multi-Label, Multi-Lingual Text Classification**: Develop benchmarks for multilingual and multi-label problems using LLMs.
 
-## Multimodal
-- **Bias Detection in Images**: Explore biases associated with actions, pricing, and other factors in visual datasets.
-- **Multimodal Content Moderation**: Explore the integration of text, images, and audio for content moderation tasks.
-
 ---
 
 # Project Components and Deadlines
