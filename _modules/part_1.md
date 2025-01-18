@@ -4,6 +4,7 @@ title: Introduction
 
 Jan 2
 : [Introduction and Course Overview](../lectures/week-1)
+
 Jan 6
 : [Pre-Training and Fine-Tuning by Sandeepan Dandapat](../lectures/week-2)
 
