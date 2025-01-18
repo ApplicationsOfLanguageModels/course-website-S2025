@@ -7,6 +7,10 @@ description:
 
 # Suggested Projects
 
+> **Note**: The suggested projects are only starting points. They are not meant to be complete or novel ideas. You are expected to research these topics thoroughly, examine existing work, and brainstorm ways to innovate. Students are also encouraged to come up with their own ideas, using the suggestions as inspiration rather than strict guidelines.
+
+> **Tip**: It is challenging to find completely novel ideas, especially when you are just starting. Shared tasks can be a great way to work on cutting-edge problems with provided datasets and well-defined objectives. If you're unsure about pursuing something entirely novel from scratch, shared tasks can help you build confidence and focus on methodological innovation.
+
 ## Education
 - **Teacher Agent for K-12 Science/Mathematics/English**: Develop an AI agent capable of assisting teachers in delivering lessons, answering questions, and evaluating assignments.
 - **Digital Twin for a Public Figure (Academic/Scientist)**: Create a personalized virtual profile that simulates a public figure like Andrew Ng or Yann LeCun.
@@ -31,6 +35,8 @@ description:
 
 # Project Components and Deadlines
 
+> **Tip**: Stay in constant touch with the teaching assistants while planning your project and proposal. Early discussions can help identify additional venues aligned with your work and interests.
+
 ## Breakdown of Project Components
 
 ### **Project Proposal & Literature Review**
@@ -42,8 +48,6 @@ description:
   - Feasibility and novelty.
   - Initial methodology outline (subject to change).
 
-> **Note**: The suggested projects are only starting points. They are not meant to be complete or novel ideas. You are expected to research these topics thoroughly, examine existing work, and brainstorm ways to innovate. Students are also encouraged to come up with their own ideas, using the suggestions as inspiration rather than strict guidelines.
-
 ---
 
 ### **Preliminary Implementation**
@@ -54,8 +58,6 @@ description:
   - Completeness of functionality.
   - Use of LLMs effectively.
   - Reproducibility and documentation.
-
-> **Tip**: It is challenging to find completely novel ideas, especially when you are just starting. Shared tasks can be a great way to work on cutting-edge problems with provided datasets and well-defined objectives. If you're unsure about pursuing something entirely novel from scratch, shared tasks can help you build confidence and focus on methodological innovation.
 
 ---
 
@@ -87,6 +89,9 @@ description:
 
 # Recommended Venues for Publication
 
+### ClimateNLP 2025 [NEW]
+- [Paper Draft Submission](https://nlp4climate.github.io): March 1, 2025
+
 ### ACL Student Research Workshop
 - [Paper Draft Submission](https://acl2025-srw.github.io/cfp): March 27, 2025
 
@@ -116,7 +121,7 @@ description:
 - **Results Announced**: April 4, 2025  
 - **Shared Task Paper Due**: April 14, 2025
 
-> **Important**: The listed venues are not exhaustive. Stay in constant touch with the teaching assistants while planning your project and proposal. Early discussions can help identify additional venues aligned with your work and interests.
+> **Important**: The listed venues are not exhaustive. Students are encouraged to look for venues to publish their work in, as finding appropriate submission venues is also part of the publication process.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Course Policy
 nav_order: 5
-description: The detailed policy of the course along with the mark distribution is listed here
+description:
 ---
 
 ## Teaching and Learning Methodology
