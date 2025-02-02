@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Week 5 - Agents
-permalink: /lectures/week-4
+permalink: /lectures/week-5
 parent: Lectures
-nav_order: 4
+nav_order: 5
 ---
 
 ## Topics Covered
