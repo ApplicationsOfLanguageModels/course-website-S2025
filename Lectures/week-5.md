@@ -19,6 +19,9 @@ nav_order: 5
 
 ## Resources
 
-1. **Lecture Slides**  
+1. **Lecture Slides by Vasudeva Varma**  
    [download from here]()
+
+2. **Lecture Slides by Harshit Surana** 
+    [download from here]()
 
