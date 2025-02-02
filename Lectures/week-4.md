@@ -93,8 +93,8 @@ nav_order: 4
 1. **Lecture Slides**  
    [download from here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/2025-01-20.pdf)
 
-2. **API Calling and Unsloth AI Finetuning Resources**  
-    [Groq and Gemini API Use](https://colab.research.google.com/drive/1nSSBQC364cSlsrGT9va-6ogMiURFX8jX?usp=sharing)
-    [Text-to-Text Model Finetuning](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen2.5_(7B)-Alpaca.ipynb)
-    [Vision-to-Text Model Finetuning](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.2_(11B)-Vision.ipynb)
+2. **API Calling/Unsloth AI Finetuning Resources**  
+    - [Groq and Gemini API Use](https://colab.research.google.com/drive/1nSSBQC364cSlsrGT9va-6ogMiURFX8jX?usp=sharing)
+    - [Text-to-Text Model Finetuning](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen2.5_(7B)-Alpaca.ipynb)
+    - [Vision-to-Text Model Finetuning](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.2_(11B)-Vision.ipynb)
 
