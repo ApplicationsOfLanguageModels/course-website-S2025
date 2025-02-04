@@ -48,6 +48,6 @@ The session covered various prompting techniques to enhance LLM performance, inc
 
 3. **Tutorials**  
    - [RAG with Langchain, Chroma and Cosine Similarity](https://colab.research.google.com/drive/197zdFaOZrHtu0FC9OaxNjm8Qw-4phI78?usp=sharing)
-   - [CoT and React Prompting}](https://colab.research.google.com/drive/1RP8oO-wNlKWAAY35aY3zLtkCkiT3jgg6?usp=sharing)
+   - [CoT and React Prompting](https://colab.research.google.com/drive/1RP8oO-wNlKWAAY35aY3zLtkCkiT3jgg6?usp=sharing)
    - [Agents using Langchain](https://colab.research.google.com/drive/1BNKwhdD3-kXCa65oF4eZe_SBav7BKyGU?usp=sharing)
 
