@@ -74,6 +74,6 @@ This session provided a comprehensive overview of how LLMs are evolving into int
 1. **Lecture Slides by Vasudeva Varma**  
    [download from here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/WEEK4-VV-LLM-Agents-IIITH-29Jan2025-Share.pdf)
 
-2. **Lecture Slides by Harshit Surana** 
+2. **Lecture Slides by Harshit Surana**  
     [download from here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/Agentic-Workflows-Surana.pdf)
 
