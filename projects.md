@@ -7,14 +7,14 @@ description:
 
 # Project&Team Allocation
 
-| Team Name        | Name of Member 1              | Roll Number of Member 1 | Name of Member 2          | Roll Number of Member 2 | Name of Member 3 | Roll Number of Member 3 | Final Project                                              |
-|-----------------|-----------------------------|------------------------|--------------------------|------------------------|------------------|------------------------|------------------------------------------------------------|
-| EduBot          | Akanksha Srivastava         | 2023204019            | Yash Bhaskar            | 2021114012            |                  |                        | Teacher Agent for K-12 Science/Mathematics/English        |
-| TeamPDM         | Mohan Gangadhar Gudey       | 2023204015            | Nayeem                  | 2023204012            |                  |                        | Digital Twin for a public figure (academic/scientist)    |
-| LLM ki sena     | Sankalp Bahad               | 2021114015            | Utsav Shekhar           | 2021114006            | Pronoy Patra     | 2021112019            | Accountable Talk Chatbot                                  |
-| Language Warrior| Srivatsa                    | 2024701003            | Aditya Raghuvanshi      | 2021114009            |                  |                        | Arithmetic Reasoning using LLM                           |
-| AutoRev         | Ketaki Mangesh Shetye       | 2022114013            | Maitreya Prafulla Chitale | 2022114011            |                  |                        | Automatic Paper Review System                            |
-| Human Models    | Ishan Gupta                 | 2022111007            | Harsh Gupta             | 2022101067            |                  |                        | AI Agents for Moot Court                                 |
+| Team Name        | Name of Member 1              | Name of Member 2          | Name of Member 3 | Final Project                                              |
+|-----------------|-----------------------------|--------------------------|------------------|------------------------------------------------------------|
+| EduBot          | Akanksha Srivastava         | Yash Bhaskar            |                  | Teacher Agent for K-12 Science/Mathematics/English        |
+| TeamPDM         | Mohan Gangadhar Gudey       | Nayeem                  |                  | Digital Twin for a public figure (academic/scientist)    |
+| LLM ki sena     | Sankalp Bahad               | Utsav Shekhar           | Pronoy Patra     | Accountable Talk Chatbot                                  |
+| Language Warrior| Srivatsa                    | Aditya Raghuvanshi      |                  | Arithmetic Reasoning using LLM                           |
+| AutoRev         | Ketaki Mangesh Shetye       | Maitreya Prafulla Chitale |                  | Automatic Paper Review System                            |
+| Human Models    | Ishan Gupta                 | Harsh Gupta             |                  | AI Agents for Moot Court                                 |
 
 
 # Suggested Projects
