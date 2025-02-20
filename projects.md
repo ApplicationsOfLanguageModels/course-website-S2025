@@ -76,7 +76,7 @@ description:
 
 ### **Final Presentation**
 - **Deliverable**: A presentation and live demo (if applicable)
-- **Deadline**: April 2
+- **Deadline**: April 7
 - **Rubric**:
   - Engagement and delivery.
   - Visual aids and demonstration.
@@ -84,7 +84,7 @@ description:
 
 ### **Final Report**
 - **Deliverable**: A detailed report in ACL format.
-- **Deadline**: April 10
+- **Deadline**: April 10 (Tentative)
 - **Rubric**:
   - Clarity and structure.
   - Incorporation of presentation feedback.
