@@ -64,7 +64,7 @@ description:
 
 ### **Preliminary Project Evaluation**
 - **Deliverable**: Progress so far.
-- **Deadline**: March 2
+- **Deadline**: March 13
 - **Rubric**:
   - Code quality and structure.
   - Completeness of functionality.
