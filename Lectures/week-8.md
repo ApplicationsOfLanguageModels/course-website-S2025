@@ -61,12 +61,12 @@ Following these in-depth discussions, students presented their insights to the c
 
 ## Resources
 
-1. **Slides**  
+1. **Slides by Sowmya V.**  
    [download from here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/LLMs-Education-IIITH-Feb2025.pdf)
 
 2. **COLING LLMs for Education Tutorial**  
    [view here](https://coling2025-edu-llms.github.io/)
 
 3. **Generative AI and Applied Linguistics**  
-   - [view here](https://doi.org/10.37546/JALTJJ46.1-3)
+   [view here](https://doi.org/10.37546/JALTJJ46.1-3)
 

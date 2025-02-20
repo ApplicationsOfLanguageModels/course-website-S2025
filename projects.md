@@ -62,40 +62,32 @@ description:
 
 ---
 
-### **Preliminary Implementation**
+### **Preliminary Project Evaluation**
 - **Deliverable**: Progress so far.
-- **Deadline**: Feb 19
+- **Deadline**: March 2
 - **Rubric**:
   - Code quality and structure.
   - Completeness of functionality.
   - Use of LLMs effectively.
   - Reproducibility and documentation.
-
----
-
-### **Evaluation and Results**
-- **Deliverable**: Quantitative and qualitative evaluation metrics.
-- **Deadline**: March 2
-- **Rubric**:
-  - Appropriateness of evaluation metrics.
-  - Thoroughness in testing.
-  - Insights from results.
   - Comparison with baselines or prior work.
 
 ---
 
 ### **Final Presentation**
-- **Deliverable**: A 10-minute presentation and live demo.
-- **Deadline**: March 13
+- **Deliverable**: A presentation and live demo (if applicable)
+- **Deadline**: April 2
 - **Rubric**:
-  - Clarity and structure.
-  - Visual aids and demonstration.
   - Engagement and delivery.
+  - Visual aids and demonstration.
   - Response to Q&A.
 
 ### **Final Report**
 - **Deliverable**: A detailed report in ACL format.
-- **Deadline**: March 20
+- **Deadline**: April 10
+- **Rubric**:
+  - Clarity and structure.
+  - Incorporation of presentation feedback.
 
 ---
 
