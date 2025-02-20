@@ -44,6 +44,19 @@ The session explored how LLMs enhance various aspects of education:
 - Can AI-driven tutoring systems be expanded to handle multiple subjects and languages?  
 - What are the ethical considerations of AI-based learning tools in education?  
 
+### Project Discussions
+The course instructor organized a comprehensive discussion to facilitate inter-team collaboration. Students first worked individually to identify the biggest challenges they faced in their projects. Several key problem areas emerged, including:  
+
+- **Dataset creation**: Challenges related to preprocessing, data collection, and the potential need for synthetic data generation.  
+- **Fine-tuning difficulties**: Limited compute resources, dataset preparation for fine-tuning, and deciding between different fine-tuning strategies.  
+- **Evaluation and RAG (Retrieval-Augmented Generation)**: Concerns about effective evaluation methodologies and integrating RAG into their workflows.  
+
+After identifying these pain points, students were divided into two groups:  
+1. One group focused on fine-tuning challenges and potential solutions.  
+2. The other group discussed RAG and data-related issues.  
+
+Following these in-depth discussions, students presented their insights to the class, leading to a productive and holistic exchange of ideas. This session helped refine their understanding of project challenges and fostered collaborative problem-solving.
+
 ---
 
 ## Resources
