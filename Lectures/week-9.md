@@ -55,10 +55,10 @@ The session covered major concerns regarding AI adoption in healthcare:
 
 1. **Slides by Vasudeva Varma**  
    [download from here](https://github.com/ApplicationsOfLanguageModels/course-website-S2025/blob/main/assets/%20slides/Week9-Healtcare.pdf)  
-2. **Dragon Copilot**
+2. **Dragon Copilot**  
    [Microsoft Dragon Copilot for Healthcare](https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot)  
-3. **Use Cases**
+3. **Use Cases**  
    [AI in Healthcare Use Cases](https://itrexgroup.com/blog/top-generative-ai-in-healthcare-use-cases/)  
-4. **Stanford AI Report**
+4. **Stanford AI Report**  
    [AI Index 2023 Report by Stanford University](https://aiindex.stanford.edu/report/)  
 

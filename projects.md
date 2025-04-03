@@ -15,7 +15,7 @@ description:
 | Language Warrior| Srivatsa                    | Aditya Raghuvanshi      |                  | Arithmetic Reasoning using LLM                           |
 | AutoRev         | Ketaki Mangesh Shetye       | Maitreya Prafulla Chitale |                  | Automatic Paper Review System                            |
 | Human Models    | Ishan Gupta                 | Harsh Gupta             |                  | AI Agents for Moot Court                                 |
-| -               | Deepesh                     |                          |                  | General Health Assistant with RAG for ingesting a patient's medical records |
+| -               | Deepesh                     |                          |                  | Health Assistant for Pregnancy |
 
 
 
