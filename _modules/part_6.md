@@ -18,7 +18,7 @@ Mar 3
 : Project Discussions
 
 Mar 6
-: LLMs in Healthcare, a perspective by Vasudeva Varma
+: [LLMs in Healthcare, a perspective by Vasudeva Varma](../lectures/week-9)
 
 Mar 10
 : LLMs for Scientific Discovery, by Harshit Surana

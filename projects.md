@@ -15,6 +15,8 @@ description:
 | Language Warrior| Srivatsa                    | Aditya Raghuvanshi      |                  | Arithmetic Reasoning using LLM                           |
 | AutoRev         | Ketaki Mangesh Shetye       | Maitreya Prafulla Chitale |                  | Automatic Paper Review System                            |
 | Human Models    | Ishan Gupta                 | Harsh Gupta             |                  | AI Agents for Moot Court                                 |
+| -               | Deepesh                     |                          |                  | General Health Assistant with RAG for ingesting a patient's medical records |
+
 
 
 # Suggested Projects
@@ -64,7 +66,7 @@ description:
 
 ### **Preliminary Project Evaluation**
 - **Deliverable**: Progress so far.
-- **Deadline**: March 13
+- **Deadline**: March 17
 - **Rubric**:
   - Code quality and structure.
   - Completeness of functionality.
@@ -76,7 +78,7 @@ description:
 
 ### **Final Presentation**
 - **Deliverable**: A presentation and live demo (if applicable)
-- **Deadline**: April 7
+- **Deadline**: April 10, 11, 12
 - **Rubric**:
   - Engagement and delivery.
   - Visual aids and demonstration.
@@ -84,7 +86,7 @@ description:
 
 ### **Final Report**
 - **Deliverable**: A detailed report in ACL format.
-- **Deadline**: April 10 (Tentative)
+- **Deadline**: April 15 (Tentative)
 - **Rubric**:
   - Clarity and structure.
   - Incorporation of presentation feedback.
