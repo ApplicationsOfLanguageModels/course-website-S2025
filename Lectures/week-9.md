@@ -51,6 +51,9 @@ The session covered major concerns regarding AI adoption in healthcare:
 - AI can streamline hospital management, improve diagnostics, and enhance patient outcomes.  
 - Challenges such as bias, privacy, and accountability must be carefully managed.  
 
+### Project Discussions
+The course TAs addressed challenges faced by the course students for their respective group projects, providing them with great insights, facilitating comprehensive discussions in class.
+
 ## Resources
 
 1. **Slides by Vasudeva Varma**  

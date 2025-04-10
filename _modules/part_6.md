@@ -21,7 +21,7 @@ Mar 6
 : [LLMs in Healthcare, a perspective by Vasudeva Varma](../lectures/week-9)
 
 Mar 10
-: LLMs for Scientific Discovery, by Harshit Surana
+: [LLMs for Scientific Discovery, by Harshit Surana](../lectures/week-10)
 
 Mar 13
 : Project Discussions
@@ -29,9 +29,9 @@ Mar 13
 Mar 17
 : Evaluation of LLMs/Building Responsible LLMs by Sandipan Dandapat
 
-Mar 20
+Mar 20 - Apr 3
 : Project Discussions
 
-Apr 3
+Apr 10 - 12
 : Final Project Presentations
 
